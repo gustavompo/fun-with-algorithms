@@ -42,6 +42,7 @@
     <Compile Include="Graphs\BreadthFirst.cs" />
     <Compile Include="Graphs\DepthFirst.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sort\QuickSort.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Trees\" />
